@@ -1,0 +1,58 @@
+"name_from_coordinate" = "name:en";
+"search_bar_place_holder" = "Search for a city";
+
+// MARK: - WeatherView
+"weather_view_wind" = "Wind";
+"weather_view_max_temperature" = "H";
+"weather_view_min_temperature" = "L";
+"weather_view_wind_speed" = "m/s";
+
+// MARK: - HourlyCollectionCell
+
+"hourly_now" = "Now";
+
+// MARK: - ForecastCell
+
+"forecast_today" = "Today";
+"forecast_tomorrow" = "Tomorrow";
+
+// MARK: - WeatherService
+
+"weather_service_clear_sky" = "Clear sky";
+"weather_service_mainly_clear" = "Mainly clear";
+"weather_service_partly_cloudy" = "Partly cloudy";
+"weather_service_overcast" = "Overcast";
+
+"weather_service_fog" = "Fog";
+
+"weather_service_light_drizzle" = "Light drizzle";
+"weather_service_moderate_drizzle" = "Moderate drizzle";
+"weather_service_dense_drizzle" = "Dense drizzle";
+
+"weather_service_light_freezing_drizzle" = "Light freezing drizzle";
+"weather_service_dense_freezing_drizzle" = "Dense freezing drizzle";
+
+"weather_service_slight_rain" = "Slight rain";
+"weather_service_moderate_rain" = "Moderate rain";
+"weather_service_heavy_rain" = "Heavy rain";
+
+"weather_service_light_freezing_rain" = "Light freezing rain";
+"weather_service_heavy_freezing_rain" = "Heavy freezing rain";
+
+"weather_service_slight_snow_fall" = "Slight snow fall";
+"weather_service_moderate_snow_fall" = "Moderate snow fall";
+"weather_service_heavy_snow_fall" = "Heavy snow fall";
+
+"weather_service_snow_grains" = "Snow grains";
+
+"weather_service_slight_rain_showers" = "Slight rain showers";
+"weather_service_moderate_rain_showers" = "Moderate rain showers";
+"weather_service_violent_rain_showers" = "Violent rain showers";
+
+"weather_service_slight_snow_showers" = "Slight snow showers";
+"weather_service_heavy_snow_showers" = "Heavy snow showers";
+
+"weather_service_thunderstorm" = "Thunderstorm";
+"weather_service_thunderstorm_with_hail" = "Thunderstorm with hail";
+
+"weather_service_unknown" = "Unknown";

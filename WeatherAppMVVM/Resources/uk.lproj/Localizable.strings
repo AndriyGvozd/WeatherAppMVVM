@@ -1,0 +1,58 @@
+"name_from_coordinate" = "name:uk";
+"search_bar_place_holder" = "Пошук міста";
+
+// MARK: - WeatherView
+"weather_view_wind" = "Вітер";
+"weather_view_max_temperature" = "В";
+"weather_view_min_temperature" = "Н";
+"weather_view_wind_speed" = "м/с";
+
+// MARK: - HourlyCollectionCell
+
+"hourly_now" = "Зараз";
+
+// MARK: - ForecastCell
+
+"forecast_today" = "Сьогодні";
+"forecast_tomorrow" = "Завтра";
+
+// MARK: - WeatherService
+
+"weather_service_clear_sky" = "Ясне небо";
+"weather_service_mainly_clear" = "Переважно ясно";
+"weather_service_partly_cloudy" = "Мінлива хмарність";
+"weather_service_overcast" = "Хмарно";
+
+"weather_service_fog" = "Туман";
+
+"weather_service_light_drizzle" = "Легка мряка";
+"weather_service_moderate_drizzle" = "Помірна мряка";
+"weather_service_dense_drizzle" = "Сильна мряка";
+
+"weather_service_light_freezing_drizzle" = "Легка крижана мряка";
+"weather_service_dense_freezing_drizzle" = "Сильна крижана мряка";
+
+"weather_service_slight_rain" = "Невеликий дощ";
+"weather_service_moderate_rain" = "Помірний дощ";
+"weather_service_heavy_rain" = "Сильний дощ";
+
+"weather_service_light_freezing_rain" = "Легкий крижаний дощ";
+"weather_service_heavy_freezing_rain" = "Сильний крижаний дощ";
+
+"weather_service_slight_snow_fall" = "Невеликий сніг";
+"weather_service_moderate_snow_fall" = "Помірний сніг";
+"weather_service_heavy_snow_fall" = "Сильний сніг";
+
+"weather_service_snow_grains" = "Сніжна крупа";
+
+"weather_service_slight_rain_showers" = "Невеликі зливи";
+"weather_service_moderate_rain_showers" = "Помірні зливи";
+"weather_service_violent_rain_showers" = "Сильні зливи";
+
+"weather_service_slight_snow_showers" = "Невеликий снігопад";
+"weather_service_heavy_snow_showers" = "Сильний снігопад";
+
+"weather_service_thunderstorm" = "Гроза";
+"weather_service_thunderstorm_with_hail" = "Гроза з градом";
+
+"weather_service_unknown" = "Невідомо";
