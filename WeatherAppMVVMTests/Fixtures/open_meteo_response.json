@@ -1,0 +1,21 @@
+{
+  "current": {
+    "temperature_2m": 18.5,
+    "weather_code": 1,
+    "wind_speed_10m": 12.3
+  },
+  "daily": {
+    "time": ["2026-05-03", "2026-05-04"],
+    "weather_code": [1, 2],
+    "temperature_2m_max": [20.0, 21.5],
+    "temperature_2m_min": [10.0, 11.0]
+  },
+  "hourly": {
+    "time": [
+      "2026-05-03T12:00",
+      "2026-05-03T13:00"
+    ],
+    "temperature_2m": [18.5, 19.0],
+    "weather_code": [1, 2]
+  }
+}
